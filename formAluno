@@ -1,0 +1,15 @@
+<html>
+<body>
+<form action="" method="post">
+		  <label for="cgm">Cgm:</label>
+        <input type="text" name="cgm" />
+        <label for="ensino">Ensino:</label>
+        <input type="text" name="ensino" />
+        <label for="turma">Turma:</label>
+		  <input type="text" name="turma" />
+		  <label for="curso">Curso:</label>
+		  <input type="text" name="curso" />
+        <button type="submit">Enviar sua mensagem</button>
+</form>
+</body>
+</html>
